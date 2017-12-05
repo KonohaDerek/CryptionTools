@@ -1,0 +1,4 @@
+D:\Projects\Dll\CryptionTools\CryptionTools\CryptionTools\bin\Debug\CryptionTools.dll
+D:\Projects\Dll\CryptionTools\CryptionTools\CryptionTools\bin\Debug\CryptionTools.pdb
+D:\Projects\Dll\CryptionTools\CryptionTools\CryptionTools\obj\Debug\CryptionTools.dll
+D:\Projects\Dll\CryptionTools\CryptionTools\CryptionTools\obj\Debug\CryptionTools.pdb
